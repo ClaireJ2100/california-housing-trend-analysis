@@ -35,3 +35,6 @@ We seek to answer the following questions:
 - How well can we predict median house values based on the available features?
 - Which features are the most important predictors?
 - How do different modeling approaches compare in terms of accuracy?
+
+## About
+This project was completed as part of the coursework for **Data Science 301** and focuses on predicting median house values in California using census data and regression models implemented in R.
